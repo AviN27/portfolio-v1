@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.8f117596.css",
-    "main.js": "/portfolio-v1/static/js/main.361adb2d.js",
+    "main.css": "/portfolio-v1/static/css/main.430852b9.css",
+    "main.js": "/portfolio-v1/static/js/main.51271476.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-v1/static/js/787.1ed0c42c.chunk.js",
     "static/media/work3.png": "/portfolio-v1/static/media/work3.32e1c52de414bc889006.png",
     "static/media/Avinash Naidu - Resume 2.pdf": "/portfolio-v1/static/media/Avinash Naidu - Resume 2.dc9bb6790ef261711325.pdf",
@@ -10,12 +10,12 @@
     "static/media/work2.png": "/portfolio-v1/static/media/work2.1d004623b0cba3d37c86.png",
     "static/media/Trial 1.png": "/portfolio-v1/static/media/Trial 1.68fce4f24e34455c40c4.png",
     "index.html": "/portfolio-v1/index.html",
-    "main.8f117596.css.map": "/portfolio-v1/static/css/main.8f117596.css.map",
-    "main.361adb2d.js.map": "/portfolio-v1/static/js/main.361adb2d.js.map",
+    "main.430852b9.css.map": "/portfolio-v1/static/css/main.430852b9.css.map",
+    "main.51271476.js.map": "/portfolio-v1/static/js/main.51271476.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-v1/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f117596.css",
-    "static/js/main.361adb2d.js"
+    "static/css/main.430852b9.css",
+    "static/js/main.51271476.js"
   ]
 }
