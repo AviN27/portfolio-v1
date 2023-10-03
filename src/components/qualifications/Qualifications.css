@@ -16,8 +16,33 @@
     cursor: pointer;
 }
 
-.qualification__button:hover {
+/* .qualification__button:hover {
     color: var(--title-color-dark);
+} */
+
+
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    color: var(--title-color-dark);
+}
+  
+.hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--title-color-dark);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+  
+.hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
 }
 
 .qualification__icon {
@@ -26,7 +51,10 @@
 }
 
 .qualification__active {
-    color: var(--title-color-dark);
+    background-color: var(--title-color);
+    color: var(--container-color);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.75rem;
 }
 
 .qualification__sections {
