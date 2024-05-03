@@ -2,6 +2,7 @@ import work1 from "../../assets/work1.png"
 import work2 from "../../assets/work2.png"
 import work3 from "../../assets/work3.png"
 import work4 from "../../assets/work4.png"
+import work5 from "../../assets/work5.jpg"
 
 export const projectsData = [
     {
@@ -38,6 +39,15 @@ export const projectsData = [
         subtitle: "RNN based prediction algorithm",
         category: "Academic",
         link: "https://stockprediction-ece9e.firebaseapp.com/"
+    },
+
+    {
+        id: 5,
+        image: work5,
+        title: "Travel planner",
+        subtitle: "Backend travel itenary planner using Java",
+        category: "Personal",
+        link: "https://github.com/AviN27/nymble-travelPlanner-java"
     }
 ]
 
