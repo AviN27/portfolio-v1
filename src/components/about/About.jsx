@@ -1,6 +1,5 @@
 import React from 'react'
 import "./About.css"
-import AboutImg from "../../assets/Trial\ 1.png"
 import CV from "../../assets/Avinash Naidu - Resume 2.pdf"
 import Info from './Info'
 import Lottie from 'lottie-react'
