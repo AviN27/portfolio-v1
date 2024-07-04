@@ -8,6 +8,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import Scrollup from './components/scrollup/Scrollup';
 import Projects from './components/projects/Projects';
+import Cursor from './components/cursor/CursorCircle';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       <Footer />
       <Scrollup />
 
+      <Cursor />
     </div>
   );
   

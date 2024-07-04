@@ -1,0 +1,18 @@
+.cursor-circle {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background-color: #bb920c7e;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    z-index: 1000;
+  }
+  
+  .cursor-circle.hover {
+    width: 30px;
+    height: 30px;
+    background-color: #20556e7b;
+  }
+  

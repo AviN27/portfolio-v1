@@ -21,15 +21,15 @@ const Footer = () => {
                 </li>
             </ul>
             <div className="footer__social">
-                <a href="https://www.linkedin.com/in/avinash-s-naidu-0950351bb/" className="footer__social-link" target='_blank'>
+                <a href="https://www.linkedin.com/in/avinash-s-naidu-0950351bb/" className="footer__social-link" target='_blank' rel="noopener noreferrer">
                     <i className="uil uil-linkedin"></i>
                 </a>
 
-                <a href="https://github.com/AviN27" className="footer__social-link" target='_blank'>
+                <a href="https://github.com/AviN27" className="footer__social-link" target='_blank' rel="noopener noreferrer">
                     <i className="uil uil-github"></i>
                 </a>
 
-                <a href="https://open.spotify.com/playlist/3TcOF4ryHQIFUycqycngGq?si=b410656214554bd6" className="footer__social-link" target='_blank'>
+                <a href="https://open.spotify.com/playlist/3TcOF4ryHQIFUycqycngGq?si=b410656214554bd6" className="footer__social-link" target='_blank' rel="noopener noreferrer">
                     <i class='bx bxl-spotify'></i>
                 </a>                
             </div>
