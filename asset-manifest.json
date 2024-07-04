@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.7868f5b6.css",
-    "main.js": "/portfolio-v1/static/js/main.82f73c7e.js",
+    "main.css": "/portfolio-v1/static/css/main.e28b4b61.css",
+    "main.js": "/portfolio-v1/static/js/main.47d6b430.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-v1/static/js/787.1ed0c42c.chunk.js",
     "static/media/work3.png": "/portfolio-v1/static/media/work3.32e1c52de414bc889006.png",
+    "static/media/work6.png": "/portfolio-v1/static/media/work6.0396a3c50b9a10f76e15.png",
     "static/media/Avinash Naidu - Resume 2.pdf": "/portfolio-v1/static/media/Avinash Naidu - Resume 2.93bfcbfdf3bd84d5b4d1.pdf",
     "static/media/work4.png": "/portfolio-v1/static/media/work4.7a596c64ed0778c5554a.png",
     "static/media/work1.png": "/portfolio-v1/static/media/work1.c47be45279a15256607d.png",
@@ -12,12 +13,12 @@
     "index.html": "/portfolio-v1/index.html",
     "static/media/Sun.svg": "/portfolio-v1/static/media/Sun.e7f5694200fb5dcdf3bfb5b29a9595ac.svg",
     "static/media/Moon.svg": "/portfolio-v1/static/media/Moon.07cefd5c7b98a229705483707ede2cc3.svg",
-    "main.7868f5b6.css.map": "/portfolio-v1/static/css/main.7868f5b6.css.map",
-    "main.82f73c7e.js.map": "/portfolio-v1/static/js/main.82f73c7e.js.map",
+    "main.e28b4b61.css.map": "/portfolio-v1/static/css/main.e28b4b61.css.map",
+    "main.47d6b430.js.map": "/portfolio-v1/static/js/main.47d6b430.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-v1/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7868f5b6.css",
-    "static/js/main.82f73c7e.js"
+    "static/css/main.e28b4b61.css",
+    "static/js/main.47d6b430.js"
   ]
 }
