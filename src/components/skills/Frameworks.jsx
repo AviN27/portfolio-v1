@@ -1,16 +1,19 @@
 import React from 'react'
 
-const Backend = () => {
+const Frameworks = () => {
+
+    // let skillList = ["React.js", "JavaScript"]
+
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Backend</h3>
+        <h3 className="skills__title">Frameworks</h3>
 
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
                 <i class='bx bxs-chevron-right-circle'></i>
                 <div>
-                    <h3 className="skills__name">Java</h3>
+                    <h3 className="skills__name">SpringBoot</h3>
                     
                 </div>
                 </div>
@@ -18,7 +21,7 @@ const Backend = () => {
                 <div className="skills__data">
                 <i class='bx bxs-chevron-right-circle'></i>
                 <div>
-                    <h3 className="skills__name">Python</h3>
+                    <h3 className="skills__name">Next.js</h3>
                     
                 </div>
                 </div>
@@ -26,7 +29,7 @@ const Backend = () => {
                 <div className="skills__data">
                 <i class='bx bxs-chevron-right-circle'></i>
                 <div>
-                    <h3 className="skills__name">ActiveMQ</h3>
+                    <h3 className="skills__name">Node.js</h3>
                     
                 </div>
                 </div>
@@ -34,38 +37,18 @@ const Backend = () => {
                 <div className="skills__data">
                 <i class='bx bxs-chevron-right-circle'></i>
                 <div>
-                    <h3 className="skills__name">Tomcat</h3>
+                    <h3 className="skills__name">React + Redux</h3>
                     
                 </div>
                 </div>
-
-                
 
             </div>
 
             <div className="skills__group">
-                
                 <div className="skills__data">
                 <i class='bx bxs-chevron-right-circle'></i>
                 <div>
-                    <h3 className="skills__name">REST APIs</h3>
-                    
-                </div>
-                </div>
-
-
-                <div className="skills__data">
-                <i class='bx bxs-chevron-right-circle'></i>
-                <div>
-                    <h3 className="skills__name">Supabase</h3>
-                    
-                </div>
-                </div>
-                
-                <div className="skills__data">
-                <i class='bx bxs-chevron-right-circle'></i>
-                <div>
-                    <h3 className="skills__name">Camel</h3>
+                    <h3 className="skills__name">Langchain</h3>
                     
                 </div>
                 </div>
@@ -73,11 +56,26 @@ const Backend = () => {
                 <div className="skills__data">
                 <i class='bx bxs-chevron-right-circle'></i>
                 <div>
-                    <h3 className="skills__name">Postman</h3>
+                    <h3 className="skills__name">Express.js</h3>
                     
                 </div>
                 </div>
-                
+
+                <div className="skills__data">
+                <i class='bx bxs-chevron-right-circle'></i>
+                <div>
+                    <h3 className="skills__name">Spring Security</h3>
+                    
+                </div>
+                </div>
+
+                 <div className="skills__data">
+                <i class='bx bxs-chevron-right-circle'></i>
+                <div>
+                    <h3 className="skills__name">PyTorch</h3>
+                    
+                </div>
+                </div>
 
                 
 
@@ -88,4 +86,4 @@ const Backend = () => {
   )
 }
 
-export default Backend
+export default Frameworks

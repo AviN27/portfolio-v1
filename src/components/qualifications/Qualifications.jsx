@@ -112,18 +112,37 @@ const Qualifications = () => {
 
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Software Developer</h3>
+                            <h3 className="qualification__title">Software Developer & AI Trainer</h3>
                             <span className="qualification__subtitle">
                                 Freelance - Bengaluru, India
                             </span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i> Oct 2023 - Present
+                                <i className="uil uil-calendar-alt"></i> Oct 2023 - Aug 2024
                             </div>
                         </div>
 
                         <div>
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
+                        </div>
+                    </div>
+                    
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+
+                        <div>
+                            <h3 className="qualification__title">Software Engineer</h3>
+                            <span className="qualification__subtitle">
+                                Yethi Consulting Pvt. Ltd - Bengaluru, India
+                            </span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i> Aug 2024 - Present
+                            </div>
                         </div>
                     </div>
 
